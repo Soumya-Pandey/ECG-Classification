@@ -53,3 +53,12 @@ has successfully been applied to analyzing data and localization. Trained dedica
 for every patient to automatically classify ECG signals. The final results revealed the model was
 generic because of its simple structure and parameter invariant property.
 
+**CONCLUSION**
+
+This work proposes to use deep learning technique to deal with the classification of
+12-lead ECG. In our proposed model, we extend ResNet architecture to learn and train our
+Model. The experimental results indicate that our proposed model shows promising
+results on a large data set with an accuracy of 96.47%. The future work is to consider
+imbalanced characteristic in the model to improve the classification performances for
+some rare arrhythmia.
+
